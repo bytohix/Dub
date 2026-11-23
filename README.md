@@ -52,3 +52,17 @@
 
 
 </div>
+
+---
+
+<p align="center">
+  <b>👤 سازنده: توحید</b>
+</p>
+
+<p align="center">
+  <a href="https://t.me/tohid35">
+    <img src="https://img.shields.io/badge/Telegram-@tohid35-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+</div>
